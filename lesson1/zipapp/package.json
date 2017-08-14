@@ -1,0 +1,18 @@
+{
+  "name": "zipapp",
+  "version": "1.0.0",
+  "description": "simple zip code app for US",
+  "main": "zipcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+   "zipcode":"0.1.1"
+  },
+  "keywords": [
+    "zippcode",
+    "zipapp"
+  ],
+  "author": "Deo Shao",
+  "license": "MIT"
+}
