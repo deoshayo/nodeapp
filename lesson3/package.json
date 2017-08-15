@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Express app with EJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "express":"*",
+    "ejs":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deoshayo/nodeapp.git"
+  },
+  "author": "Deo Shao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deoshayo/nodeapp/issues"
+  },
+  "homepage": "https://github.com/deoshayo/nodeapp#readme"
+}
