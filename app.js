@@ -3,7 +3,7 @@
 var express =require('express');
 var stylus =require('stylus');
 var nib =require('nib');
-var _dirname="/";
+var _dirname="nodeapp";
 
 
 //set variable for port number
@@ -23,6 +23,7 @@ var portnumber= 3000;
  //set view folder
 
  app.set('views',_dirname+'/views');
+ //app.set('views', path.join(__dirname, 'views')); 
 
 
  //Initialize Jade
